@@ -3,6 +3,8 @@ public class Ordenar {
     List <Integer> list = new ArrayList<>();
     
     list.forEach(System.out::println);
+    
+    System.out.println ("Test.");
    }
  }
     
